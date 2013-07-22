@@ -1,0 +1,140 @@
+netrunner-se-firefox-profile (1.0.0) raring; urgency=low
+
+  * Based on the netrunner-artwork-firefox package
+  * Added HTTPS Everywhere extension
+  * Added FoxyProxy extension
+  * Added NoScript extension
+  * Set DuckDuckGo as default search engine
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 22 Jul 2013 10:38:51 +0200
+
+netrunner-artwork-firefox (1.0.20) enigma-1306; urgency=low
+
+  * New AdblockPlus changes
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 05 Jul 2013 10:58:44 +0200
+
+netrunner-artwork-firefox (1.0.19) enigma-1306; urgency=low
+
+  * RC2
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 27 May 2013 11:14:14 +0200
+
+netrunner-artwork-firefox (1.0.18) enigma-1306; urgency=low
+
+  * RC1
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 24 May 2013 14:06:27 +0200
+
+netrunner-artwork-firefox (1.0.17) enigma-1306; urgency=low
+
+  * BETA4
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 16 May 2013 15:59:44 +0200
+
+netrunner-artwork-firefox (1.0.16) enigma-1306; urgency=low
+
+  * Update against FF20.0
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 11 Apr 2013 14:56:22 +0200
+
+netrunner-artwork-firefox (1.0.15) enigma-1306; urgency=low
+
+  * Initial enigma release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 15 Mar 2013 10:24:54 +0100
+
+netrunner-artwork-firefox (1.0.14) dryland-te; urgency=low
+
+  * Update against version 18.0
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 15 Jan 2013 14:54:38 +0100
+
+netrunner-artwork-firefox (1.0.13) dryland-te; urgency=low
+
+  * Update against version 17.0.1 
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Wed, 19 Dec 2012 13:11:09 +0100
+
+netrunner-artwork-firefox (1.0.12) dryland-te; urgency=low
+
+  * Webapps not maximized
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 10 Dec 2012 21:52:08 +0100
+
+netrunner-artwork-firefox (1.0.11) dryland-te; urgency=low
+
+  * Initial Dryland TE release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 23 Oct 2012 11:22:12 +0200
+
+netrunner-artwork-firefox (1.0.10) dryland-se; urgency=low
+
+  * Removed Tabmix Plus
+  * Removed Easylist from AdBlockPlus
+  * Upgraded AdBlockPlus
+  * Removed Oxygen KDE Options
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 21 Aug 2012 11:47:00 +0100
+
+netrunner-artwork-firefox (1.0.9) dryland-se; urgency=low
+
+  * Manage torrent file association
+  * Change initial homepage
+
+ -- Frederic Gaudet <fred@linuxmint.com>  Thu, 19 Jul 2012 10:12:31 +0200
+
+netrunner-artwork-firefox (1.0.8) dryland-se; urgency=low
+
+  * Initial dryland-se release
+
+ -- Fred <fred@linuxmint.com>  Fri, 13 Apr 2012 10:10:28 +0200
+
+netrunner-artwork-firefox (1.0.7) dryland; urgency=low
+
+  * Misc fixes
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  22 Dec 2011 16:16:00 +0000
+
+netrunner-artwork-firefox (1.0.6) dryland; urgency=low
+
+  * Misc fixes
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  22 Dec 2011 16:16:00 +0000
+
+netrunner-artwork-firefox (1.0.5) dryland; urgency=low
+
+  * Misc fixes
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  11 Dec 2011 18:16:00 +0000
+
+netrunner-artwork-firefox (1.0.4) dryland; urgency=low
+
+  * Misc fixes
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  11 Dec 2011 18:16:00 +0000
+
+netrunner-artwork-firefox (1.0.3) dryland; urgency=low
+
+  * Fix toolbar
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  5 Dec 2011 10:48:00 +0000
+
+netrunner-artwork-firefox (1.0.2) dryland; urgency=low
+
+  * Fix extensions
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  2 Dec 2011 16:48:00 +0000
+
+netrunner-artwork-firefox (1.0.1) dryland; urgency=low
+
+  * Add extensions
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  2 Dec 2011 16:48:00 +0000
+
+netrunner-artwork-firefox (1.0.0) dryland; urgency=low
+
+  * Initial release
+
+ -- Phoenix <phoenix@netrunner-os.com>  Wed,  30 Nov 2011 13:48:00 +0000
+

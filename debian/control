@@ -1,0 +1,15 @@
+Source: netrunner-se-firefox-profile
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: netrunner-se-firefox-profile
+Architecture: all
+Description: Default configuration for Firefox in Netrunner SE
+ This includes the default firefox profile for Netrunner SE including extensions like
+ * HTTPS Everywhere
+ * FoxyProxy
+ * NoScript
+ The default search engine was set to DuckDuckGo
