@@ -1,3 +1,10 @@
+netrunner-se-firefox-profile (1.0.1) raring; urgency=low
+
+  * Removed all previous bookmarks in toolbar
+  * Added bookmark to The hidden Wiki, TORCH and Encyclopedia Dramatica
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 31 Jul 2013 12:37:58 +0200
+
 netrunner-se-firefox-profile (1.0.0) raring; urgency=low
 
   * Based on the netrunner-artwork-firefox package
